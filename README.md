@@ -1,2 +1,2 @@
 # op_art
-es una plicacion x
+Is the aplication web in php with MVC for my portfolio
